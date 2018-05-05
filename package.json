@@ -6,6 +6,12 @@
     "react-scripts": "1.1.0"
   },
   "dependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-eslint": "^4.0.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.7.0",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
